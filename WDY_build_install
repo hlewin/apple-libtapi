@@ -1,0 +1,6 @@
+#!/bin/bash
+
+INSTALLPREFIX=/usr/local ./build.sh
+sudo ./install.sh
+
+
